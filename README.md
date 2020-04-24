@@ -1,2 +1,0 @@
-# SocialApps
-Created with CodeSandbox
